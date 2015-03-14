@@ -1,9 +1,9 @@
 # Site Settings
 #==================================
 title: Carte Du Vin
-email: gardner.ec@gmail.com
+email: kevin@carteduvin.com
 description: Carte du Vin offers complete wine cellar solutions for Los Angeles.
-baseurl: "/carte_du_vin" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # Build settings

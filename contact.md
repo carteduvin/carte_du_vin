@@ -20,7 +20,7 @@ title: Contact Us
     </select></p>
 
 		<p><label for="message">How can we help you?</label>
-    <textarea id="message"></textarea></p>
+    <textarea id="message" name="message"></textarea></p>
 		<button class="larger">Send</button>
 	</form>
 </fieldset>

@@ -14,5 +14,3 @@ Carte du Vin Inc. was founded in Los Angeles, CA in 2002 by Jeff Smith to provid
 
 >“He calls it ‘wine cellar management.’ Clients call it a godsend.”  
 _---Variety_
-
-test test.
